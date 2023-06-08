@@ -34,6 +34,7 @@
 		52C0195F2A31636C0010E898 /* CodableBundleExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52C0195E2A31636C0010E898 /* CodableBundleExtension.swift */; };
 		52C019612A3177DB0010E898 /* AnimalListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52C019602A3177DB0010E898 /* AnimalListItemView.swift */; };
 		52C019632A3179CC0010E898 /* AnimalModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52C019622A3179CC0010E898 /* AnimalModel.swift */; };
+		52C019652A3214AC0010E898 /* NewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52C019642A3214AC0010E898 /* NewView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -66,6 +67,7 @@
 		52C0195E2A31636C0010E898 /* CodableBundleExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableBundleExtension.swift; sourceTree = "<group>"; };
 		52C019602A3177DB0010E898 /* AnimalListItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalListItemView.swift; sourceTree = "<group>"; };
 		52C019622A3179CC0010E898 /* AnimalModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalModel.swift; sourceTree = "<group>"; };
+		52C019642A3214AC0010E898 /* NewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -174,6 +176,7 @@
 			children = (
 				52C0195B2A3162680010E898 /* CoverImageModel.swift */,
 				52C019622A3179CC0010E898 /* AnimalModel.swift */,
+				52C019642A3214AC0010E898 /* NewView.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -279,6 +282,7 @@
 				520D11972A2A3822007A4477 /* MapView.swift in Sources */,
 				520D11662A2A31E1007A4477 /* AfricaApp.swift in Sources */,
 				520D11952A2A37FC007A4477 /* VideoListView.swift in Sources */,
+				52C019652A3214AC0010E898 /* NewView.swift in Sources */,
 				520D11992A2A3864007A4477 /* GalleryView.swift in Sources */,
 				52C0195F2A31636C0010E898 /* CodableBundleExtension.swift in Sources */,
 			);
